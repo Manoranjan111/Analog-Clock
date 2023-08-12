@@ -1,6 +1,6 @@
 Analog Clock using HTML, CSS, and JavaScript
 
-URL: https://analog-clock.manoranjan111.repl.co/
+URL: https://manoranjan111.github.io/Analog-Clock/
 
 <img width="959" alt="Analog clock " src="https://github.com/Manoranjan111/Analog-Clock/assets/95931051/bd9f7bee-f3ae-4990-9269-13b7e5a74205">
 
